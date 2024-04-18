@@ -1,3 +1,0 @@
-linux shell devops aws
-java python c c++
-github gitlab .net 
